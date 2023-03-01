@@ -6,7 +6,9 @@ _A simple website that has a list of programming languages_
 
 |Name|Email|Major|     
 |----|-----|-------|      
-|Victor|victor@montclair.edu|Computer Science| 
+|Victor|victor@montclair.edu|Computer Science|
+|Renee|renee@montclair.edu|Computer Science|
+|Danny|danny@montclair.edu|Computer Science|
 
 1. Added more Programming Languages to file
 2. Added a link of the file for access

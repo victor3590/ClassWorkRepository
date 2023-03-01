@@ -1,4 +1,4 @@
-# Class Work File Changes
+# Class Work HTML File Changes
 ***
 [Github](https://github.com/victor3590/ClassWorkRepository "Github Repository")
 _A simple website that has a list of programming languages_
@@ -12,5 +12,5 @@ _A simple website that has a list of programming languages_
 2. Added a link of the file for access
 3. Added image of a montclair logo
    * Download loaded logo from google
-   * uploaded to ClassWork branch
+   * Uploaded to ClassWork branch
 
